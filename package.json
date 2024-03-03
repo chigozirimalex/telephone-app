@@ -1,0 +1,12 @@
+{
+  "name": "telephone-app",
+  "version": "1.0.0",
+  "description": "A telephone calling service",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chigozirim Alex",
+  "license": "ISC",
+  "type": "module"
+}
